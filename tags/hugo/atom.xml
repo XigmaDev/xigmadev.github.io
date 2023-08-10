@@ -5,16 +5,6 @@
     <link>https://xigma.dev/tags/hugo/</link>
     <description>Recent content in Bruce Willis on Xigma</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xigma.dev/tags/hugo/atom.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Install Hugo on Mac OS</title>
-      <link>https://xigma.dev/posts/install-hugo-on-mac-os/</link>
-      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://xigma.dev/posts/install-hugo-on-mac-os/</guid>
-      <description>Vivamus posuere arcu interdum felis venenatis congue. Etiam dapibus condimentum lorem id dignissim. Morbi pulvinar erat quis arcu ornare faucibus. Nulla commodo est id ante porttitor gravida. Sed elementum ante eget turpis consectetur, vitae rutrum ligula eleifend. Fusce iaculis placerat sem, non condimentum odio hendrerit ac. Sed vestibulum neque pellentesque, dapibus tortor et, scelerisque quam. Aenean imperdiet eros quis vestibulum ullamcorper. Integer vestibulum mattis elit, non congue lacus porttitor condimentum. Donec dapibus eleifend nibh, eget tempus justo pulvinar ut.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://xigma.dev/tags/hugo/atom.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
